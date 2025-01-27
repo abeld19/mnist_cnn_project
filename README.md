@@ -1,1 +1,0 @@
-# mnist_cnn_project
